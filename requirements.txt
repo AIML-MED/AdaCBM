@@ -1,0 +1,17 @@
+pillow
+opencv-python
+torch
+torchvision
+torchaudio
+tqdm
+numpy
+lightning
+mmcv==1.5.2
+yapf==0.40.1
+scipy
+torchmetrics
+ftfy
+regex
+pandas
+tensorboard
+git+https://github.com/openai/CLIP.git
